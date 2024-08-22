@@ -18,6 +18,6 @@ There are 3 popular branching strategies.
 
 ![alt text](git-flow.svg)
 
-**Feature branching**
+**Feature branching:**
 
 ![alt text](feature.svg)
